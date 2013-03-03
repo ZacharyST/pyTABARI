@@ -1,0 +1,6 @@
+
+*.pyc
+
+inputs/.DS_Store
+
+test_files/.DS_Store
